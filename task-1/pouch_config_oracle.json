@@ -1,0 +1,2478 @@
+{
+    "heating(source)": {
+        "reheating coffee": [
+            {
+                "object_name": "CoffeeMachine",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Microwave",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "StoveBurner",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cooking & serving toast": [
+            {
+                "object_name": "Toaster",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "StoveBurner",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Microwave",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cooking & serving fried egg": [
+            {
+                "object_name": "StoveBurner",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cooking & serving omlette": [
+            {
+                "object_name": "StoveBurner",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "reheat tomato soup": [
+            {
+                "object_name": "Microwave",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "StoveBurner",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "boil water": [
+            {
+                "object_name": "Microwave",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "StoveBurner",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "melting envelope wax": [
+            {
+                "object_name": "Candle",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Wax",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "melting butter": [
+            {
+                "object_name": "Microwave",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "StoveBurner",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "heating(vessel)": {
+        "reheating coffee in a coffeemachine": [
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Glass",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Mug",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Glass",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Mug",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "reheating coffee in a microwave": [
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Mug",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "reheating coffee on a stove": [
+            {
+                "object_name": "Pot",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Kettle",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cooking & serving fried egg": [
+            {
+                "object_name": "Pan",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cooking & serving omlette": [
+            {
+                "object_name": "Pan",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "reheat tomato soup in microwave": [
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Mug",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "reheat tomato soup on stoveburner": [
+            {
+                "object_name": "Pot",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Kettle",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "boil water on stoveburner": [
+            {
+                "object_name": "Pot",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Kettle",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "boil water in microwave": [
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Mug",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "cleaning": {
+        "washing dishes": [
+            {
+                "object_name": "DishSponge",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Sponge",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "SoapBar",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Soap",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "SoapBottle",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "drying washed dishes": [
+            {
+                "object_name": "PaperTowelRoll",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Newspaper",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cloth",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "TissueBox",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Organic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "throw away unused apple pie": [
+            {
+                "object_name": "DishSponge",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Sponge",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "SoapBar",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Soap",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "SoapBottle",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "clean spilled milk": [
+            {
+                "object_name": "PaperTowelRoll",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Towel",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Newspaper",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "ToiletPaper",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Organic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cloth",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "HandTowel",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "TissueBox",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Organic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "clean mirror": [
+            {
+                "object_name": "PaperTowelRoll",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Towel",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Newspaper",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "ToiletPaper",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Organic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cloth",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "HandTowel",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "TissueBox",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Organic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "clean fridge": [
+            {
+                "object_name": "ScrubBrush",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cloth",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "TissueBox",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Organic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "PaperTowelRoll",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "clean blinds": [
+            {
+                "object_name": "Cloth",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "VaccumCleaner",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cleaning showerhead": [
+            {
+                "object_name": "ScrubBrush",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "TissueBox",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Organic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "helping ayush, he just returned after a bath": [
+            {
+                "object_name": "Towel",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "helping dianbo, he returned after washing his face": [
+            {
+                "object_name": "HandTowel",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Towel",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "dusting the statue": [
+            {
+                "object_name": "PaperTowelRoll",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Newspaper",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cloth",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "TissueBox",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Organic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cleaning toilet": [
+            {
+                "object_name": "Plunger",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "ScrubBrush",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cleaning floor": [
+            {
+                "object_name": "VaccumCleaner",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cloth",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "ScrubBrush",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "washing your face": [
+            {
+                "object_name": "HandTowel",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Towel",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "washing": {
+        "washing dishes": [
+            {
+                "object_name": "SinkBasin",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Stone",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "preparing & serving sliced apple": [
+            {
+                "object_name": "SinkBasin",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Stone",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "serve potato dish": [
+            {
+                "object_name": "SinkBasin",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Stone",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "washing your face": [
+            {
+                "object_name": "BathTubBasin",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Stone",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "cutting": {
+        "preparing & serving sliced apple": [
+            {
+                "object_name": "Knife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "serve potato dish": [
+            {
+                "object_name": "Knife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cut apple": [
+            {
+                "object_name": "Knife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "open envelope": [
+            {
+                "object_name": "Knife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "apply butter": [
+            {
+                "object_name": "ButterKnife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Knife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "taking a bite of cake": [
+            {
+                "object_name": "Fork",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Spoon",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "serving cake": [
+            {
+                "object_name": "Knife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "ButterKnife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Fork",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "carrying": {
+        "preparing & serving sliced apple": [
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cooking & serving toast": [
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cooking & serving fried egg": [
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cooking & serving omlette": [
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "reheat tomato soup": [
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Glass",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Pot",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Mug",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "serve potato dish": [
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Glass",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Glass",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "serving wine": [
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Glass",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Mug",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Mug",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Glass",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "water plants": [
+            {
+                "object_name": "WateringCan",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Vase",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bottle",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Kettle",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Mug",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "WineBottle",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Glass",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "SprayBottle",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "giving ayush drinking water": [
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Mug",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Mug",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bottle",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "serving cake": [
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Plate",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "breaking": {
+        "cooking & serving fried egg": [
+            {
+                "object_name": "Knife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "ButterKnife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Fork",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Spoon",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Spatula",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cooking & serving omlette": [
+            {
+                "object_name": "Knife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "ButterKnife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Fork",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Spoon",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Spatula",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "crack eggs": [
+            {
+                "object_name": "Fork",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Spoon",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Ladle",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Spatula",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "ButterKnife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Knife",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "mixing(vessel)": {
+        "cooking & serving omlette": [
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bowl",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cup",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "mixing(tool)": {
+        "reheat tomato soup": [
+            {
+                "object_name": "Ladle",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Spoon",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "storage": {
+        "store fruits and vegetables": [
+            {
+                "object_name": "Fridge",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "store clean utensils": [
+            {
+                "object_name": "Cabinet",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "ShelvingUnit",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Shelf",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "packing  books for house shifting": [
+            {
+                "object_name": "Box",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "keep sporting equipment": [
+            {
+                "object_name": "ShelvingUnit",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Shelf",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Drawer",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "storing important documents": [
+            {
+                "object_name": "Drawer",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Safe",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "storing cereal box": [
+            {
+                "object_name": "Cabinet",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Fridge",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Shelf",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "keep dirty clothes": [
+            {
+                "object_name": "LaundryHamper",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "storing dog treats": [
+            {
+                "object_name": "Shelf",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "ShelvingUnit",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Cabinet",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Drawer",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "disposing": {
+        "throw away unused apple pie": [
+            {
+                "object_name": "GarbageCan",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "clean spilled milk": [
+            {
+                "object_name": "GarbageCan",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "throw away used soap bottle": [
+            {
+                "object_name": "GarbageCan",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "throwing toiletpaper": [
+            {
+                "object_name": "Toilet",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Stone",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "GarbageCan",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "entertainment": {
+        "watch movie": [
+            {
+                "object_name": "Television",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "CD",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Laptop",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Desktop",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "listen songs": [
+            {
+                "object_name": "Laptop",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "CellPhone",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "CD",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Television",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "surf internet": [
+            {
+                "object_name": "Laptop",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "CellPhone",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "suggesting where can raghav play mario": [
+            {
+                "object_name": "Desktop",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Laptop",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "comfort": {
+        "watch movie": [
+            {
+                "object_name": "Sofa",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "ArmChair",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Chair",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Ottoman",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bed",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "time": {
+        "tell me the time": [
+            {
+                "object_name": "Watch",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "AlarmClock",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Laptop",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Desktop",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "CellPhone",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "reading": {
+        "read me to sleep": [
+            {
+                "object_name": "Book",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Laptop",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Desktop",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "surface_support": {
+        "keep laptop": [
+            {
+                "object_name": "Desk",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "CoffeeTable",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "DiningTable",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "SideTable",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "CounterTop",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Stone",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "keeping a display-statue": [
+            {
+                "object_name": "CoffeeTable",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Desk",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "CounterTop",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Stone",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "DiningTable",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "SideTable",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "eat dinner on": [
+            {
+                "object_name": "DiningTable",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "CounterTop",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Stone",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Sofa",
+                "mass": "super-heavy",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "increasing_height": {
+        "hanging poster": [
+            {
+                "object_name": "Chair",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Stool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Footstool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Ottoman",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "hanging painting": [
+            {
+                "object_name": "Chair",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Stool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Footstool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Ottoman",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "cleaning showerhead": [
+            {
+                "object_name": "Footstool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Stool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "getting a book from shelf": [
+            {
+                "object_name": "Chair",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Stool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Ottoman",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Footstool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "placing a very delicate artifact on a shelf": [
+            {
+                "object_name": "Chair",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Stool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "fixing light bulb outside your house": [
+            {
+                "object_name": "Chair",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Stool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "put objects on high shelf": [
+            {
+                "object_name": "Chair",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Footstool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Stool",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "light_source": {
+        "increase brightness of room": [
+            {
+                "object_name": "LightSwitch",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Window",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Glass",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Blinds",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Curtains",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Candle",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Wax",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "FloorLamp",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "decoration": {
+        "decorate table": [
+            {
+                "object_name": "Statue",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "HousePlant",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "TableTopDecor",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "TableTopDecor",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "decorate bed": [
+            {
+                "object_name": "TeddyBear",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Fabric",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "decorate wall": [
+            {
+                "object_name": "Poster",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Painting",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Painting",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "decorate lobby": [
+            {
+                "object_name": "HousePlant",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Ceramic",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Poster",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Painting",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Painting",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Paper",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Statue",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "eating": {
+        "giving raghav something hot to eat": [
+            {
+                "object_name": "Egg",
+                "mass": "light",
+                "temperature": "Hot",
+                "material": "Food",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Potato",
+                "mass": "light",
+                "temperature": "Hot",
+                "material": "Food",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Bread",
+                "mass": "light",
+                "temperature": "Hot",
+                "material": "Food",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Lettuce",
+                "mass": "light",
+                "temperature": "Hot",
+                "material": "Food",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Lettuce",
+                "mass": "light",
+                "temperature": "Cold",
+                "material": "Food",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "physical_excercise": {
+        "giving ayush something to workout": [
+            {
+                "object_name": "BasketBall",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Rubber",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Dumbell",
+                "mass": "heavy",
+                "temperature": "RoomTemp",
+                "material": "Plastic",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "get dianbo something to hit a ball": [
+            {
+                "object_name": "BaseBallBat",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "TennisRacket",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    },
+    "writing": {
+        "getting ayush something to write a thought on a paper": [
+            {
+                "object_name": "Pen",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "Pencil",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Wood",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ],
+        "getting raghav something to e-mail someone": [
+            {
+                "object_name": "Laptop",
+                "mass": "medium",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            },
+            {
+                "object_name": "CellPhone",
+                "mass": "light",
+                "temperature": "RoomTemp",
+                "material": "Metal",
+                "already_in_use": "free",
+                "condition": "clean"
+            }
+        ]
+    }
+}

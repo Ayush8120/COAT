@@ -1,0 +1,2185 @@
+{
+    "Microwave": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "StoveBurner": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Toaster": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Oven": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "CoffeeMachine": {
+        "mass": [
+            "heavy"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Candle": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Wax"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "clean",
+            "broken",
+            "dirty"
+        ]
+    },
+    "WineBottle": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Glass"
+        ],
+        "temperature": [
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "WateringCan": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Vase": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Ceramic",
+            "Glass"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Bottle": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal",
+            "Plastic",
+            "Glass"
+        ],
+        "temperature": [
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Cup": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal",
+            "Glass",
+            "Plastic",
+            "Ceramic",
+            "Organic"
+        ],
+        "temperature": [
+            "Hot",
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Mug": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal",
+            "Plastic",
+            "Ceramic",
+            "Glass"
+        ],
+        "temperature": [
+            "Hot",
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Pot": {
+        "mass": [
+            "heavy"
+        ],
+        "material": [
+            "Stone",
+            "Metal",
+            "Plastic",
+            "Ceramic"
+        ],
+        "temperature": [
+            "Hot",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Kettle": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Metal",
+            "Ceramic",
+            "Glass"
+        ],
+        "temperature": [
+            "Hot",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Bowl": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Stone",
+            "Metal",
+            "Glass",
+            "Wood",
+            "Plastic",
+            "Ceramic",
+            "Organic"
+        ],
+        "temperature": [
+            "Hot",
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Plate": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal",
+            "Glass",
+            "Plastic",
+            "Paper",
+            "Ceramic",
+            "Organic"
+        ],
+        "temperature": [
+            "Hot",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "SprayBottle": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "DishSponge": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Sponge"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "ScrubBrush": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Plunger": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "PaperTowelRoll": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Paper"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "SoapBar": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Soap"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "SoapBottle": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Towel": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Fabric"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Newspaper": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Paper"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "ToiletPaper": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Organic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Cloth": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Fabric"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "HandTowel": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Fabric"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "TissueBox": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Paper",
+            "Organic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "VaccumCleaner": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Plastic"
+        ],
+        "temperature": ["RoomTemp"],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "BathTubBasin": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Stone"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "SinkBasin": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Stone"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Toilet": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Stone"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "ButterKnife": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal",
+            "Plastic",
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Knife": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Fork": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal",
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Spatula": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal",
+            "Wood",
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "GarbageCan": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Ladle": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal",
+            "Wood",
+            "Glass"
+        ],
+        "temperature": [
+            "Hot",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Spoon": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal",
+            "Wood",
+            "Plastic"
+        ],
+        "temperature": [
+            "Hot",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Pan": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "Hot",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Drawer": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Cabinet": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Dresser": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Fridge": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "LaundryHamper": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Safe": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Shelf": {
+        "mass": [
+            "heavy"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "ShelvingUnit": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Desk": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Box": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Wood",
+            "Plastic",
+            "Organic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Television": {
+        "mass": [
+            "heavy"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "CD": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "RemoteControl": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "CellPhone": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Laptop": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Desktop": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Bed": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "ArmChair": {
+        "mass": [
+            "heavy"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Chair": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Metal",
+            "Wood",
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "DogBed": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Fabric"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Sofa": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Fabric"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Ottoman": {
+        "mass": [
+            "heavy"
+        ],
+        "material": [
+            "Fabric"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Book": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Paper"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "CoffeeTable": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Footstool": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Metal",
+            "Wood",
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "DiningTable": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "CounterTop": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Stone"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Stool": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Metal",
+            "Wood",
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "SideTable": {
+        "mass": [
+            "heavy"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Watch": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "AlarmClock": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Apple": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Food"
+        ],
+        "temperature": [
+            "Hot",
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Bread": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Food"
+        ],
+        "temperature": [
+            "Hot",
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Potato": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Food"
+        ],
+        "temperature": [
+            "Hot",
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Lettuce": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Food"
+        ],
+        "temperature": [
+            "Hot",
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Egg": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Food"
+        ],
+        "temperature": [
+            "Hot",
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Coffee": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Food"
+        ],
+        "temperature": [
+            "Hot",
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Tomato": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Food"
+        ],
+        "temperature": [
+            "Hot",
+            "Cold",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Salt": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Food"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "BasketBall": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Rubber"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "BaseBallBat": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Wood"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Dumbell": {
+        "mass": [
+            "heavy"
+        ],
+        "material": [
+            "Metal",
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "TennisRacket": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "TargetCircle": {
+        "mass": [],
+        "material": [],
+        "temperature": [],
+        "already_in_use": [],
+        "condition": []
+    },
+    "Pen": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Pencil": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Wood",
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "clean",
+            "broken"
+        ]
+    },
+    "Floor": {
+        "mass": [
+            "super-heavy"
+        ],
+        "material": [
+            "Stone"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean"
+        ]
+    },
+    "LightSwitch": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Plastic"
+        ],
+        "temperature": [
+            "Hot",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Window": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Glass"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "DeskLamp": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Blinds": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Fabric"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Curtains": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Fabric"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "FloorLamp": {
+        "mass": [
+            "heavy"
+        ],
+        "material": [
+            "Metal"
+        ],
+        "temperature": [
+            "Hot",
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Statue": {
+        "mass": [
+            "heavy"
+        ],
+        "material": [
+            "Stone",
+            "Metal",
+            "Glass"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "HousePlant": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Plastic",
+            "Ceramic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "RoomDecor": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Glass",
+            "Fabric",
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "TeddyBear": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Fabric"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "TableTopDecor": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Wood",
+            "Glass",
+            "Fabric",
+            "Plastic"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Poster": {
+        "mass": [
+            "light"
+        ],
+        "material": [
+            "Paper"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "irreversible-using",
+            "reversible-using",
+            "free"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    },
+    "Painting": {
+        "mass": [
+            "medium"
+        ],
+        "material": [
+            "Metal",
+            "Plastic",
+            "Glass",
+            "Paper"
+        ],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free",
+            "reversible-using",
+            "irreversible-using"
+        ],
+        "condition": [
+            "dirty",
+            "clean",
+            "broken"
+        ]
+    }
+}

@@ -1,0 +1,2581 @@
+{
+    "mat_gt": [
+        {
+            "concept": "heating(source)",
+            "tasks": [
+                {
+                    "task": "reheating coffee",
+                    "items": {
+                        "CoffeeMachine": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Microwave": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "StoveBurner": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "cooking & serving toast",
+                    "items": {
+                        "Toaster": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "StoveBurner": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Microwave": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "cooking & serving fried egg",
+                    "items": {
+                        "StoveBurner": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "cooking & serving omlette",
+                    "items": {
+                        "StoveBurner": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "reheat tomato soup",
+                    "items": {
+                        "Microwave": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "StoveBurner": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "boil water",
+                    "items": {
+                        "Microwave": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "StoveBurner": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "melting envelope wax",
+                    "items": {
+                        "Candle": {
+                            "good": [
+                                
+                                    "Wax"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "melting butter",
+                    "items": {
+                        "Microwave": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "StoveBurner": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "heating(vessel)",
+            "tasks": [
+                {
+                    "task": "reheating coffee in a coffeemachine",
+                    "items": {
+                        "Cup": {
+                            "good": [
+                                "Organic",
+                                "Plastic",
+                                "Metal",
+                                "Glass",
+                                "Ceramic"
+                            ],
+                            "bad": []
+                        },
+                        "Mug": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Glass",
+                                "Ceramic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "reheating coffee in a microwave",
+                    "items": {
+                        "Cup": {
+                            "good": [
+                                "Plastic",
+                                "Glass",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                "Organic",
+                                "Metal"
+                            ]
+                        },
+                        "Mug": {
+                            "good": [
+                                "Plastic",
+                                "Glass",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                "Metal"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "task": "reheating coffee on a stove",
+                    "items": {
+                        "Pot": {
+                            "good": [
+                                "Stone",
+                                "Ceramic",
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Kettle": {
+                            "good": [
+                                "Glass",
+                                "Ceramic",
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "cooking & serving fried egg",
+                    "items": {
+                        "Pan": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "cooking & serving omlette",
+                    "items": {
+                        "Pan": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "reheat tomato soup in microwave",
+                    "items": {
+                        "Cup": {
+                            "good": [
+                                "Plastic",
+                                "Glass",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                "Organic",
+                                "Metal"
+                            ]
+                        },
+                        "Mug": {
+                            "good": [
+                                "Plastic",
+                                "Glass",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                "Metal"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "task": "reheat tomato soup on stoveburner",
+                    "items": {
+                        "Pot": {
+                            "good": [
+                                "Stone",
+                                "Ceramic",
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Kettle": {
+                            "good": [
+                                "Glass",
+                                "Ceramic",
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "boil water on stoveburner",
+                    "items": {
+                        "Pot": {
+                            "good": [
+                                "Stone",
+                                "Ceramic",
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Kettle": {
+                            "good": [
+                                "Glass",
+                                "Ceramic",
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "boil water in microwave",
+                    "items": {
+                        "Cup": {
+                            "good": [
+                                "Plastic",
+                                "Glass",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                "Organic",
+                                "Metal"
+                            ]
+                        },
+                        "Mug": {
+                            "good": [
+                                "Plastic",
+                                "Glass",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                "Metal"
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "cleaning",
+            "tasks": [
+                {
+                    "task": "washing dishes",
+                    "items": {
+                        "DishSponge": {
+                            "good": [
+                                
+                                    "Sponge"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "SoapBar": {
+                            "good": [
+                                
+                                    "Soap"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "SoapBottle": {
+                            "good": [
+                                
+                                    "Plastic"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "drying washed dishes",
+                    "items": {
+                        "PaperTowelRoll": {
+                            "good": [
+                                
+                                    "Paper"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Newspaper": {
+                            "good": [
+                                
+                                    "Paper"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Cloth": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "TissueBox": {
+                            "good": ["Paper",
+                            "Organic"],
+                            "bad": []
+                            
+                        }
+                    }
+                },
+                {
+                    "task": "throw away unused apple pie",
+                    "items": {
+                        "DishSponge": {
+                            "good": [
+                                
+                                    "Sponge"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "SoapBar": {
+                            "good": [
+                                
+                                    "Soap"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "SoapBottle": {
+                            "good": [
+                                
+                                    "Plastic"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "clean spilled milk",
+                    "items": {
+                        "PaperTowelRoll": {
+                            "good": [
+                                
+                                    "Paper"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Towel": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Newspaper": {
+                            "good": [
+                                
+                                    "Paper"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "ToiletPaper": {
+                            "good": [
+                                
+                                    "Organic"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Cloth": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "HandTowel": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "TissueBox": {
+                            "good": [
+                                "Paper",
+                                "Organic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "clean mirror",
+                    "items": {
+                        "PaperTowelRoll": {
+                            "good": [
+                                
+                                    "Paper"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Towel": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Newspaper": {
+                            "good": [
+                                
+                                   "Paper"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "ToiletPaper": {
+                            "good": [
+                                
+                                    "Organic"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Cloth": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "HandTowel": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "TissueBox": {
+                            "good": [
+                                "Paper",
+                                "Organic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "clean fridge",
+                    "items": {
+                        "ScrubBrush": {
+                            "good": [
+                                
+                                    "Plastic"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Cloth": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "TissueBox": {
+                            "good": [
+                                "Paper",
+                                "Organic"
+                            ],
+                            "bad": []
+                        },
+                        "PaperTowelRoll": {
+                            "good": [
+                                
+                                    "Paper"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "clean blinds",
+                    "items": {
+                        "Cloth": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "VaccumCleaner": {
+                            "good": [
+                                
+                                    "Plastic"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "cleaning showerhead",
+                    "items": {
+                        "ScrubBrush": {
+                            "good": [
+                                
+                                    "Plastic"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "TissueBox": {
+                            "good": [
+                                "Paper",
+                                "Organic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "helping ayush, he just returned after a bath",
+                    "items": {
+                        "Towel": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "helping dianbo, he returned after washing his face",
+                    "items": {
+                        "HandTowel": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Towel": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "dusting the statue",
+                    "items": {
+                        "PaperTowelRoll": {
+                            "good": [
+                                
+                                    "Paper"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Newspaper": {
+                            "good": [
+                                
+                                    "Paper"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Cloth": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "TissueBox": {
+                            "good": [
+                                "Paper",
+                                "Organic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "cleaning toilet",
+                    "items": {
+                        "Plunger": {
+                            "good": [
+                                
+                                    "Plastic"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "ScrubBrush": {
+                            "good": [
+                                
+                                    "Plastic"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "cleaning floor",
+                    "items": {
+                        "VaccumCleaner": {
+                            "good": [
+                                
+                                    "Plastic"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Cloth": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "ScrubBrush": {
+                            "good": [
+                                
+                                    "Plastic"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "washing your face",
+                    "items": {
+                        "HandTowel": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        },
+                        "Towel": {
+                            "good": [
+                                
+                                    "Fabric"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "washing",
+            "tasks": [
+                {
+                    "task": "washing dishes",
+                    "items": {
+                        "SinkBasin": {
+                            "good": [
+                                
+                                    "Stone"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "preparing & serving sliced apple",
+                    "items": {
+                        "SinkBasin": {
+                            "good": [
+                                
+                                    "Stone"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "serve potato dish",
+                    "items": {
+                        "SinkBasin": {
+                            "good": [
+                                
+                                    "Stone"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "washing your face",
+                    "items": {
+                        "BathTubBasin": {
+                            "good": [
+                                
+                                    "Stone"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "cutting",
+            "tasks": [
+                {
+                    "task": "preparing & serving sliced apple",
+                    "items": {
+                        "Knife": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "serve potato dish",
+                    "items": {
+                        "Knife": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "cut apple",
+                    "items": {
+                        "Knife": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "open envelope",
+                    "items": {
+                        "Knife": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "apply butter",
+                    "items": {
+                        "ButterKnife": {
+                            "good": [
+                                "Wood",
+                                "Plastic",
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "Knife": {
+                            "good": [
+                                
+                                    "Metal"
+                                
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "taking a bite of cake",
+                    "items": {
+                        "Fork": {
+                            "good": [
+                                "Plastic",
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "Spoon": {
+                            "good": [
+                                "Plastic",
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "serving cake",
+                    "items": {
+                        "Knife": {
+                            "good": [
+                            
+                                    "Metal"
+                            
+                            ],
+                            "bad": []
+                        },
+                        "ButterKnife": {
+                            "good": [
+                                "Plastic",
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "Fork": {
+                            "good": [
+                                "Plastic",
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "carrying",
+            "tasks": [
+                {
+                    "task": "preparing & serving sliced apple",
+                    "items": {
+                        "Plate": {
+                            "good": [
+                                "Paper",
+                                "Organic",
+                                "Glass",
+                                "Ceramic",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": []
+                        },
+                        "Bowl": {
+                            "good": [
+                                "Stone",
+                                "Wood",
+                                "Organic",
+                                "Glass",
+                                "Ceramic",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "cooking & serving toast",
+                    "items": {
+                        "Plate": {
+                            "good": [
+                                "Paper",
+                                "Organic",
+                                "Glass",
+                                "Ceramic",
+                                "Plastic",
+                                "Metal"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Bowl": {
+                            "good": [
+                                "Stone",
+                                "Glass",
+                                "Wood",
+                                "Organic",
+                                "Ceramic",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        }
+                    }
+                },
+                {
+                    "task": "cooking & serving fried egg",
+                    "items": {
+                        "Plate": {
+                            "good": [
+                                "Glass",
+                                "Paper",
+                                "Organic",
+                                "Ceramic",
+                                "Plastic",
+                                "Metal"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Bowl": {
+                            "good": [
+                                "Stone",
+                                "Glass",
+                                "Wood",
+                                "Organic",
+                                "Ceramic",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        }
+                    }
+                },
+                {
+                    "task": "cooking & serving omlette",
+                    "items": {
+                        "Plate": {
+                            "good": [
+                                "Glass",
+                                "Paper",
+                                "Organic",
+                                "Ceramic",
+                                "Plastic",
+                                "Metal"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Bowl": {
+                            "good": [
+                                "Stone",
+                                "Glass",
+                                "Wood",
+                                "Organic",
+                                "Ceramic",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        }
+                    }
+                },
+                {
+                    "task": "reheat tomato soup",
+                    "items": {
+                        "Bowl": {
+                            "good": [
+                                "Wood",
+                                "Organic",
+                                "Stone",
+                                "Metal",
+                                "Plastic",
+                                "Glass",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Pot": {
+                            "good": [
+                                "Stone",
+                                "Plastic",
+                                "Metal",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Cup": {
+                            "good": [
+                                "Organic",
+                                "Metal",
+                                "Glass",
+                                "Plastic",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                
+                                
+                            ]
+                        },
+                        "Mug": {
+                            "good": [
+                                "Metal",
+                                "Glass",
+                                "Plastic",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        }
+                    }
+                },
+                {
+                    "task": "serve potato dish",
+                    "items": {
+                        "Plate": {
+                            "good": [
+                                "Paper",
+                                "Organic",
+                                "Metal",
+                                "Plastic",
+                                "Glass",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Bowl": {
+                            "good": [
+                                "Wood",
+                                "Organic",
+                                "Stone",
+                                "Glass",
+                                "Metal",
+                                "Plastic",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        }
+                    }
+                },
+                {
+                    "task": "serving wine",
+                    "items": {
+                        "Cup": {
+                            "good": [
+                                "Organic",
+                                "Metal",
+                                "Plastic",
+                                "Ceramic",
+                                "Glass"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Mug": {
+                            "good": [
+                                "Metal",
+                                "Plastic",
+                                "Ceramic",
+                                "Glass"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "water plants",
+                    "items": {
+                        "WateringCan": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "Vase": {
+                            "good": [
+                                "Glass",
+                                "Ceramic"
+                            ],
+                            "bad": []
+                        },
+                        "Bottle": {
+                            "good": [
+                                "Glass",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Kettle": {
+                            "good": [
+                                "Glass",
+                                "Metal",
+                                "Ceramic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Mug": {
+                            "good": [
+                                "Glass",
+                                "Metal",
+                                "Ceramic",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Cup": {
+                            "good": [
+                                "Organic",
+                                "Glass",
+                                "Metal",
+                                "Ceramic",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "WineBottle": {
+                            "good": [
+                                "Glass"
+                            ],
+                            "bad": []
+                        },
+                        "SprayBottle": {
+                            "good": [
+                                "Plastic"
+                            ],
+                            "bad": []
+                        },
+                        "Bowl": {
+                            "good": [
+                                "Organic",
+                                "Glass",
+                                "Stone",
+                                "Wood",
+                                "Metal",
+                                "Ceramic",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        }
+                    }
+                },
+                {
+                    "task": "giving ayush drinking water",
+                    "items": {
+                        "Cup": {
+                            "good": [
+                                "Organic",
+                                "Glass",
+                                "Ceramic",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Mug": {
+                            "good": [
+                                "Glass",
+                                "Ceramic",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": []
+                        },
+                        "Bottle": {
+                            "good": [
+                                "Glass",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "serving cake",
+                    "items": {
+                        "Plate": {
+                            "good": [
+                                "Glass",
+                                "Paper",
+                                "Organic",
+                                "Ceramic",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Bowl": {
+                            "good": [
+                                "Stone",
+                                "Wood",
+                                "Organic",
+                                "Glass",
+                                "Ceramic",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "breaking",
+            "tasks": [
+                {
+                    "task": "cooking & serving fried egg",
+                    "items": {
+                        "Knife": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "ButterKnife": {
+                            "good": [
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Fork": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Spoon": {
+                            "good": [
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Spatula": {
+                            "good": [
+                                "Plastic",
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        }
+                    }
+                },
+                {
+                    "task": "cooking & serving omlette",
+                    "items": {
+                        "Knife": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "ButterKnife": {
+                            "good": [
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Fork": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Spoon": {
+                            "good": [
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Spatula": {
+                            "good": [
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "task": "crack eggs",
+                    "items": {
+                        "Fork": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Spoon": {
+                            "good": [
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Ladle": {
+                            "good": [
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Glass"
+                            ]
+                        },
+                        "Spatula": {
+                            "good": [
+                                "Plastic",
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "ButterKnife": {
+                            "good": [
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": [
+                                "Plastic"
+                            ]
+                        },
+                        "Knife": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "mixing(vessel)",
+            "tasks": [
+                {
+                    "task": "cooking & serving omlette",
+                    "items": {
+                        "Bowl": {
+                            "good": [
+                                "Wood",
+                                "Organic",
+                                "Stone",
+                                "Glass",
+                                "Ceramic",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        },
+                        "Cup": {
+                            "good": [
+                                "Organic",
+                                "Glass",
+                                "Ceramic",
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "mixing(tool)",
+            "tasks": [
+                {
+                    "task": "reheat tomato soup",
+                    "items": {
+                        "Ladle": {
+                            "good": [
+                                "Glass",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Spoon": {
+                            "good": [
+                                "Plastic",
+                                "Wood",
+                                "Metal"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "storage",
+            "tasks": [
+                {
+                    "task": "store fruits and vegetables",
+                    "items": {
+                        "Fridge": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "store clean utensils",
+                    "items": {
+                        "Cabinet": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "ShelvingUnit": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Shelf": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "packing  books for house shifting",
+                    "items": {
+                        "Box": {
+                            "good": [
+                                "Organic",
+                                "Plastic",
+                                "Wood"
+                            ],
+                            "bad": [
+                                
+                            ]
+                        }
+                    }
+                },
+                {
+                    "task": "keep sporting equipment",
+                    "items": {
+                        "ShelvingUnit": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Shelf": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Drawer": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "storing important documents",
+                    "items": {
+                        "Drawer": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Safe": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "storing cereal box",
+                    "items": {
+                        "Cabinet": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Fridge": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "Shelf": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "keep dirty clothes",
+                    "items": {
+                        "LaundryHamper": {
+                            "good": [
+                                "Plastic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "storing dog treats",
+                    "items": {
+                        "Shelf": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "ShelvingUnit": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Cabinet": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Drawer": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "disposing",
+            "tasks": [
+                {
+                    "task": "throw away unused apple pie",
+                    "items": {
+                        "GarbageCan": {
+                            "good": [
+                                "Plastic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "clean spilled milk",
+                    "items": {
+                        "GarbageCan": {
+                            "good": [
+                                "Plastic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "throw away used soap bottle",
+                    "items": {
+                        "GarbageCan": {
+                            "good": [
+                                "Plastic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "throwing toiletpaper",
+                    "items": {
+                        "Toilet": {
+                            "good": [
+                                "Stone"
+                            ],
+                            "bad": []
+                        },
+                        "GarbageCan": {
+                            "good": [
+                                "Plastic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "entertainment",
+            "tasks": [
+                {
+                    "task": "watch movie",
+                    "items": {
+                        "Television": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "CD": {
+                            "good": [
+                                "Plastic"
+                            ],
+                            "bad": []
+                        },
+                        "Laptop": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "Desktop": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "listen songs",
+                    "items": {
+                        "Laptop": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "CellPhone": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "CD": {
+                            "good": [
+                                "Plastic"
+                            ],
+                            "bad": []
+                        },
+                        "Television": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "surf internet",
+                    "items": {
+                        "Laptop": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "CellPhone": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "suggesting where can raghav play mario",
+                    "items": {
+                        "Desktop": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "Laptop": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "comfort",
+            "tasks": [
+                {
+                    "task": "watch movie",
+                    "items": {
+                        "Sofa": {
+                            "good": [
+                                "Fabric"
+                            ],
+                            "bad": []
+                        },
+                        "ArmChair": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Chair": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Ottoman": {
+                            "good": [
+                                "Fabric"
+                            ],
+                            "bad": []
+                        },
+                        "Bed": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "time",
+            "tasks": [
+                {
+                    "task": "tell me the time",
+                    "items": {
+                        "Watch": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "AlarmClock": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "Laptop": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "Desktop": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "CellPhone": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "reading",
+            "tasks": [
+                {
+                    "task": "read me to sleep",
+                    "items": {
+                        "Book": {
+                            "good": [
+                                "Paper"
+                            ],
+                            "bad": []
+                        },
+                        "Laptop": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "Desktop": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "surface_support",
+            "tasks": [
+                {
+                    "task": "keep laptop",
+                    "items": {
+                        "Desk": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "CoffeeTable": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "DiningTable": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "SideTable": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "CounterTop": {
+                            "good": [
+                                "Stone"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "keeping a display-statue",
+                    "items": {
+                        "CoffeeTable": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Desk": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "CounterTop": {
+                            "good": [
+                                "Stone"
+                            ],
+                            "bad": []
+                        },
+                        "DiningTable": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "SideTable": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "eat dinner on",
+                    "items": {
+                        "DiningTable": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "CounterTop": {
+                            "good": [
+                                "Stone"
+                            ],
+                            "bad": []
+                        },
+                        "Sofa": {
+                            "good": [
+                                "Fabric"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "increasing_height",
+            "tasks": [
+                {
+                    "task": "hanging poster",
+                    "items": {
+                        "Chair": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Stool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Footstool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Ottoman": {
+                            "good": [
+                                "Fabric"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "hanging painting",
+                    "items": {
+                        "Chair": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Stool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Footstool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Ottoman": {
+                            "good": [
+                                "Fabric"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "cleaning showerhead",
+                    "items": {
+                        "Footstool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Stool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "getting a book from shelf",
+                    "items": {
+                        "Chair": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Stool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Ottoman": {
+                            "good": [
+                                "Fabric"
+                            ],
+                            "bad": []
+                        },
+                        "Footstool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "placing a very delicate artifact on a shelf",
+                    "items": {
+                        "Chair": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Stool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "fixing light bulb outside your house",
+                    "items": {
+                        "Chair": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Stool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "put objects on high shelf",
+                    "items": {
+                        "Chair": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Footstool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "Stool": {
+                            "good": [
+                                "Plastic",
+                                "Metal",
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "light_source",
+            "tasks": [
+                {
+                    "task": "increase brightness of room",
+                    "items": {
+                        "LightSwitch": {
+                            "good": [
+                                "Plastic"
+                            ],
+                            "bad": []
+                        },
+                        "Window": {
+                            "good": [
+                                "Glass"
+                            ],
+                            "bad": []
+                        },
+                        "Blinds": {
+                            "good": [
+                                "Fabric"
+                            ],
+                            "bad": []
+                        },
+                        "Curtains": {
+                            "good": [
+                                "Fabric"
+                            ],
+                            "bad": []
+                        },
+                        "Candle": {
+                            "good": [
+                                "Wax"
+                            ],
+                            "bad": []
+                        },
+                        "FloorLamp": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "decoration",
+            "tasks": [
+                {
+                    "task": "decorate table",
+                    "items": {
+                        "Statue": {
+                            "good": [
+                                "Glass",
+                                "Stone",
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "HousePlant": {
+                            "good": [
+                                "Ceramic",
+                                "Plastic"
+                            ],
+                            "bad": []
+                        },
+                        "TableTopDecor": {
+                            "good": [
+                                "Glass",
+                                "Plastic",
+                                "Wood",
+                                "Fabric"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "decorate bed",
+                    "items": {
+                        "TeddyBear": {
+                            "good": [
+                                "Fabric"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "decorate wall",
+                    "items": {
+                        "Poster": {
+                            "good": [
+                                "Paper"
+                            ],
+                            "bad": []
+                        },
+                        "Painting": {
+                            "good": [
+                                "Glass",
+                                "Plastic",
+                                "Metal",
+                                "Paper"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "decorate lobby",
+                    "items": {
+                        "HousePlant": {
+                            "good": [
+                                "Plastic",
+                                "Ceramic"
+                            ],
+                            "bad": []
+                        },
+                        "Poster": {
+                            "good": [
+                                "Paper"
+                            ],
+                            "bad": []
+                        },
+                        "Painting": {
+                            "good": [
+                                "Glass",
+                                "Plastic",
+                                "Metal",
+                                "Paper"
+                            ],
+                            "bad": []
+                        },
+                        "Statue": {
+                            "good": [
+                                "Glass",
+                                "Stone",
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "eating",
+            "tasks": [
+                {
+                    "task": "giving raghav something hot to eat",
+                    "items": {
+                        "Egg": {
+                            "good": [
+                                "Food"
+                            ],
+                            "bad": []
+                        },
+                        "Potato": {
+                            "good": [
+                                "Food"
+                            ],
+                            "bad": []
+                        },
+                        "Bread": {
+                            "good": [
+                                "Food"
+                            ],
+                            "bad": []
+                        },
+                        "Lettuce": {
+                            "good": [
+                                "Food"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "physical_excercise",
+            "tasks": [
+                {
+                    "task": "giving ayush something to workout",
+                    "items": {
+                        "BasketBall": {
+                            "good": [
+                                "Rubber"
+                            ],
+                            "bad": []
+                        },
+                        "Dumbell": {
+                            "good": [
+                                "Metal",
+                                "Plastic"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "get dianbo something to hit a ball",
+                    "items": {
+                        "BaseBallBat": {
+                            "good": [
+                                "Wood"
+                            ],
+                            "bad": []
+                        },
+                        "TennisRacket": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "concept": "writing",
+            "tasks": [
+                {
+                    "task": "getting ayush something to write a thought on a paper",
+                    "items": {
+                        "Pen": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "Pencil": {
+                            "good": [
+                                "Plastic",
+                                "Wood"
+                            ],
+                            "bad": []
+                        }
+                    }
+                },
+                {
+                    "task": "getting raghav something to e-mail someone",
+                    "items": {
+                        "Laptop": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        },
+                        "CellPhone": {
+                            "good": [
+                                "Metal"
+                            ],
+                            "bad": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

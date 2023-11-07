@@ -1,0 +1,142 @@
+{
+    "heating(source)": [
+        "reheating coffee",
+        "cooking & serving toast",
+        "cooking & serving fried egg",
+        "cooking & serving omlette",
+        "reheat tomato soup",
+        "boil water",
+        "melting envelope wax",
+        "melting butter"
+    ],
+    "heating(vessel)": [
+        "reheating coffee in a coffeemachine",
+        "reheating coffee in a microwave",
+        "reheating coffee on a stove",
+        "cooking & serving fried egg",
+        "cooking & serving omlette",
+        "reheat tomato soup in microwave",
+        "reheat tomato soup on stoveburner",
+        "boil water on stoveburner",
+        "boil water in microwave"
+    ],
+    "cleaning": [
+        "washing dishes",
+        "drying washed dishes",
+        "throw away unused apple pie",
+        "clean spilled milk",
+        "clean mirror",
+        "clean fridge",
+        "clean blinds",
+        "cleaning showerhead",
+        "helping ayush, he just returned after a bath",
+        "helping dianbo, he returned after washing his face",
+        "dusting the statue",
+        "cleaning toilet",
+        "cleaning floor",
+        "washing your face"
+    ],
+    "washing": [
+        "washing dishes",
+        "preparing & serving sliced apple",
+        "serve potato dish",
+        "washing your face"
+    ],
+    "cutting": [
+        "preparing & serving sliced apple",
+        "serve potato dish",
+        "cut apple",
+        "open envelope",
+        "apply butter",
+        "taking a bite of cake",
+        "serving cake"
+    ],
+    "carrying": [
+        "preparing & serving sliced apple",
+        "cooking & serving toast",
+        "cooking & serving fried egg",
+        "cooking & serving omlette",
+        "reheat tomato soup",
+        "serve potato dish",
+        "serving wine",
+        "water plants",
+        "giving ayush drinking water",
+        "serving cake"
+    ],
+    "breaking": [
+        "cooking & serving fried egg",
+        "cooking & serving omlette",
+        "crack eggs"
+    ],
+    "mixing(vessel)": [
+        "cooking & serving omlette"
+    ],
+    "mixing(tool)": [
+        "reheat tomato soup"
+    ],
+    "storage": [
+        "store fruits and vegetables",
+        "store clean utensils",
+        "packing  books for house shifting",
+        "keep sporting equipment",
+        "storing important documents",
+        "storing cereal box",
+        "keep dirty clothes",
+        "storing dog treats"
+    ],
+    "disposing": [
+        "throw away unused apple pie",
+        "clean spilled milk",
+        "throw away used soap bottle",
+        "throwing toiletpaper"
+    ],
+    "entertainment": [
+        "watch movie",
+        "listen songs",
+        "surf internet",
+        "suggesting where can raghav play mario"
+    ],
+    "comfort": [
+        "watch movie"
+    ],
+    "time": [
+        "tell me the time"
+    ],
+    "reading": [
+        "read me to sleep"
+    ],
+    "surface_support": [
+        "keep laptop",
+        "keeping a display-statue",
+        "eat dinner on"
+    ],
+    "increasing_height": [
+        "hanging poster",
+        "hanging painting",
+        "cleaning showerhead",
+        "getting a book from shelf",
+        "placing a very delicate artifact on a shelf",
+        "fixing light bulb outside your house",
+        "put objects on high shelf"
+    ],
+    "light_source": [
+        "increase brightness of room"
+    ],
+    "decoration": [
+        "decorate table",
+        "decorate bed",
+        "decorate wall",
+        "decorate lobby"
+    ],
+    "eating": [
+        "giving raghav something hot to eat"
+    ],
+    "physical_excercise": [
+        "giving ayush something to workout",
+        "get dianbo something to hit a ball"
+    ],
+    "writing": [
+        "getting ayush something to write a thought on a paper",
+        "getting raghav something to e-mail someone"
+    ]
+}

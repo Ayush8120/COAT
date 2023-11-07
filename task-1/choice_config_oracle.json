@@ -1,0 +1,1304 @@
+{
+    "Microwave": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "StoveBurner": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Toaster": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Oven": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "CoffeeMachine": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Candle": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "WineBottle": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "WateringCan": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Vase": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Bottle": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Cup": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Mug": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Pot": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Kettle": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Bowl": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Plate": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "SprayBottle": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "DishSponge": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "ScrubBrush": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Plunger": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "PaperTowelRoll": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "SoapBar": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "SoapBottle": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Towel": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Newspaper": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "ToiletPaper": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Cloth": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "HandTowel": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "TissueBox": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "VaccumCleaner": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "BathTubBasin": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "SinkBasin": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Toilet": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "ButterKnife": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Knife": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Fork": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Spatula": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "GarbageCan": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Ladle": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Spoon": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Pan": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Drawer": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Cabinet": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Dresser": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Fridge": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "LaundryHamper": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Safe": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Shelf": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "ShelvingUnit": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Desk": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Box": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Television": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "CD": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "RemoteControl": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "CellPhone": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Laptop": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Desktop": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Bed": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "ArmChair": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Chair": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "DogBed": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Sofa": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Ottoman": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Book": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "CoffeeTable": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Footstool": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "DiningTable": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "CounterTop": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Stool": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "SideTable": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Watch": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "AlarmClock": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Apple": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Bread": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "Hot"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Potato": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "Hot"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Lettuce": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "Hot",
+            "Cold"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Egg": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "Hot"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Coffee": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "Cold",
+            "Hot"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Tomato": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Salt": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "BasketBall": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "BaseBallBat": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Dumbell": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "TennisRacket": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Pen": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Pencil": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Floor": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "LightSwitch": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Window": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "DeskLamp": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Blinds": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Curtains": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "FloorLamp": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Statue": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "HousePlant": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "RoomDecor": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "TeddyBear": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "TableTopDecor": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Poster": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    },
+    "Painting": {
+        "mass": [],
+        "material": [],
+        "temperature": [
+            "RoomTemp"
+        ],
+        "already_in_use": [
+            "free"
+        ],
+        "condition": [
+            "clean"
+        ]
+    }
+}

@@ -1,0 +1,490 @@
+{
+    "heating(source)": {
+        "reheating coffee": [
+            "CoffeeMachine",
+            "Microwave",
+            "StoveBurner"
+        ],
+        "cooking & serving toast": [
+            "Toaster",
+            "StoveBurner",
+            "Microwave"
+        ],
+        "cooking & serving fried egg": [
+            "StoveBurner"
+        ],
+        "cooking & serving omlette": [
+            "StoveBurner"
+        ],
+        "reheat tomato soup": [
+            "Microwave",
+            "StoveBurner"
+        ],
+        "boil water": [
+            "Microwave",
+            "StoveBurner"
+        ],
+        "melting envelope wax": [
+            "Candle"
+        ],
+        "melting butter": [
+            "Microwave",
+            "StoveBurner"
+        ]
+    },
+    "heating(vessel)": {
+        "reheating coffee in a coffeemachine": [
+            "Cup",
+            "Mug"
+        ],
+        "reheating coffee in a microwave": [
+            "Cup",
+            "Mug"
+        ],
+        "reheating coffee on a stove": [
+            "Pot",
+            "Kettle"
+        ],
+        "cooking & serving fried egg": [
+            "Pan"
+        ],
+        "cooking & serving omlette": [
+            "Pan"
+        ],
+        "reheat tomato soup in microwave": [
+            "Cup",
+            "Mug"
+        ],
+        "reheat tomato soup on stoveburner": [
+            "Pot",
+            "Kettle"
+        ],
+        "boil water on stoveburner": [
+            "Pot",
+            "Kettle"
+        ],
+        "boil water in microwave": [
+            "Cup",
+            "Mug"
+        ]
+    },
+    "cleaning": {
+        "washing dishes": [
+            "DishSponge",
+            "SoapBar",
+            "SoapBottle"
+        ],
+        "drying washed dishes": [
+            "PaperTowelRoll",
+            "Newspaper",
+            "Cloth",
+            "TissueBox"
+        ],
+        "throw away unused apple pie": [
+            "DishSponge",
+            "SoapBar",
+            "SoapBottle"
+        ],
+        "clean spilled milk": [
+            "PaperTowelRoll",
+            "Towel",
+            "Newspaper",
+            "ToiletPaper",
+            "Cloth",
+            "HandTowel",
+            "TissueBox"
+        ],
+        "clean mirror": [
+            "PaperTowelRoll",
+            "Towel",
+            "Newspaper",
+            "ToiletPaper",
+            "Cloth",
+            "HandTowel",
+            "TissueBox"
+        ],
+        "clean fridge": [
+            "ScrubBrush",
+            "Cloth",
+            "TissueBox",
+            "PaperTowelRoll"
+        ],
+        "clean blinds": [
+            "Cloth",
+            "VaccumCleaner"
+        ],
+        "cleaning showerhead": [
+            "ScrubBrush",
+            "TissueBox"
+        ],
+        "helping ayush, he just returned after a bath": [
+            "Towel"
+        ],
+        "helping dianbo, he returned after washing his face": [
+            "HandTowel",
+            "Towel"
+        ],
+        "dusting the statue": [
+            "PaperTowelRoll",
+            "Newspaper",
+            "Cloth",
+            "TissueBox"
+        ],
+        "cleaning toilet": [
+            "Plunger",
+            "ScrubBrush"
+        ],
+        "cleaning floor": [
+            "VaccumCleaner",
+            "Cloth",
+            "ScrubBrush"
+        ],
+        "washing your face": [
+            "HandTowel",
+            "Towel"
+        ]
+    },
+    "washing": {
+        "washing dishes": [
+            "SinkBasin"
+        ],
+        "preparing & serving sliced apple": [
+            "SinkBasin"
+        ],
+        "serve potato dish": [
+            "SinkBasin"
+        ],
+        "washing your face": [
+            "BathTubBasin"
+        ]
+    },
+    "cutting": {
+        "preparing & serving sliced apple": [
+            "Knife"
+        ],
+        "serve potato dish": [
+            "Knife"
+        ],
+        "cut apple": [
+            "Knife"
+        ],
+        "open envelope": [
+            "Knife"
+        ],
+        "apply butter": [
+            "ButterKnife",
+            "Knife"
+        ],
+        "taking a bite of cake": [
+            "Fork",
+            "Spoon"
+        ],
+        "serving cake": [
+            "Knife",
+            "ButterKnife",
+            "Fork"
+        ]
+    },
+    "carrying": {
+        "preparing & serving sliced apple": [
+            "Plate",
+            "Bowl"
+        ],
+        "cooking & serving toast": [
+            "Plate",
+            "Bowl"
+        ],
+        "cooking & serving fried egg": [
+            "Plate",
+            "Bowl"
+        ],
+        "cooking & serving omlette": [
+            "Plate",
+            "Bowl"
+        ],
+        "reheat tomato soup": [
+            "Bowl",
+            "Pot",
+            "Cup",
+            "Mug"
+        ],
+        "serve potato dish": [
+            "Plate",
+            "Bowl"
+        ],
+        "serving wine": [
+            "Cup",
+            "Mug"
+        ],
+        "water plants": [
+            "WateringCan",
+            "Vase",
+            "Bottle",
+            "Kettle",
+            "Mug",
+            "Cup",
+            "WineBottle",
+            "SprayBottle",
+            "Bowl"
+        ],
+        "giving ayush drinking water": [
+            "Cup",
+            "Mug",
+            "Bottle"
+        ],
+        "serving cake": [
+            "Plate",
+            "Bowl"
+        ]
+    },
+    "breaking": {
+        "cooking & serving fried egg": [
+            "Knife",
+            "ButterKnife",
+            "Fork",
+            "Spoon",
+            "Spatula"
+        ],
+        "cooking & serving omlette": [
+            "Knife",
+            "ButterKnife",
+            "Fork",
+            "Spoon",
+            "Spatula"
+        ],
+        "crack eggs": [
+            "Fork",
+            "Spoon",
+            "Ladle",
+            "Spatula",
+            "ButterKnife",
+            "Knife"
+        ]
+    },
+    "mixing(vessel)": {
+        "cooking & serving omlette": [
+            "Bowl",
+            "Cup"
+        ]
+    },
+    "mixing(tool)": {
+        "reheat tomato soup": [
+            "Ladle",
+            "Spoon"
+        ]
+    },
+    "storage": {
+        "store fruits and vegetables": [
+            "Fridge"
+        ],
+        "store clean utensils": [
+            "Cabinet",
+            "ShelvingUnit",
+            "Shelf"
+        ],
+        "packing  books for house shifting": [
+            "Box"
+        ],
+        "keep sporting equipment": [
+            "ShelvingUnit",
+            "Shelf",
+            "Drawer"
+        ],
+        "storing important documents": [
+            "Drawer",
+            "Safe"
+        ],
+        "storing cereal box": [
+            "Cabinet",
+            "Fridge",
+            "Shelf"
+        ],
+        "keep dirty clothes": [
+            "LaundryHamper"
+        ],
+        "storing dog treats": [
+            "Shelf",
+            "ShelvingUnit",
+            "Cabinet",
+            "Drawer"
+        ]
+    },
+    "disposing": {
+        "throw away unused apple pie": [
+            "GarbageCan"
+        ],
+        "clean spilled milk": [
+            "GarbageCan"
+        ],
+        "throw away used soap bottle": [
+            "GarbageCan"
+        ],
+        "throwing toiletpaper": [
+            "Toilet",
+            "GarbageCan"
+        ]
+    },
+    "entertainment": {
+        "watch movie": [
+            "Television",
+            "CD",
+            "Laptop",
+            "Desktop"
+        ],
+        "listen songs": [
+            "Laptop",
+            "CellPhone",
+            "CD",
+            "Television"
+        ],
+        "surf internet": [
+            "Laptop",
+            "CellPhone"
+        ],
+        "suggesting where can raghav play mario": [
+            "Desktop",
+            "Laptop"
+        ]
+    },
+    "comfort": {
+        "watch movie": [
+            "Sofa",
+            "ArmChair",
+            "Chair",
+            "Ottoman",
+            "Bed"
+        ]
+    },
+    "time": {
+        "tell me the time": [
+            "Watch",
+            "AlarmClock",
+            "Laptop",
+            "Desktop",
+            "CellPhone"
+        ]
+    },
+    "reading": {
+        "read me to sleep": [
+            "Book",
+            "Laptop",
+            "Desktop"
+        ]
+    },
+    "surface_support": {
+        "keep laptop": [
+            "Desk",
+            "CoffeeTable",
+            "DiningTable",
+            "SideTable",
+            "CounterTop"
+        ],
+        "keeping a display-statue": [
+            "CoffeeTable",
+            "Desk",
+            "CounterTop",
+            "DiningTable",
+            "SideTable"
+        ],
+        "eat dinner on": [
+            "DiningTable",
+            "CounterTop",
+            "Sofa"
+        ]
+    },
+    "increasing_height": {
+        "hanging poster": [
+            "Chair",
+            "Stool",
+            "Footstool",
+            "Ottoman"
+        ],
+        "hanging painting": [
+            "Chair",
+            "Stool",
+            "Footstool",
+            "Ottoman"
+        ],
+        "cleaning showerhead": [
+            "Footstool",
+            "Stool"
+        ],
+        "getting a book from shelf": [
+            "Chair",
+            "Stool",
+            "Ottoman",
+            "Footstool"
+        ],
+        "placing a very delicate artifact on a shelf": [
+            "Chair",
+            "Stool"
+        ],
+        "fixing light bulb outside your house": [
+            "Chair",
+            "Stool"
+        ],
+        "put objects on high shelf": [
+            "Chair",
+            "Footstool",
+            "Stool"
+        ]
+    },
+    "light_source": {
+        "increase brightness of room": [
+            "LightSwitch",
+            "Window",
+            "Blinds",
+            "Curtains",
+            "Candle",
+            "FloorLamp"
+        ]
+    },
+    "decoration": {
+        "decorate table": [
+            "Statue",
+            "HousePlant",
+            "TableTopDecor"
+        ],
+        "decorate bed": [
+            "TeddyBear"
+        ],
+        "decorate wall": [
+            "Poster",
+            "Painting"
+        ],
+        "decorate lobby": [
+            "HousePlant",
+            "Poster",
+            "Painting",
+            "Statue"
+        ]
+    },
+    "eating": {
+        "giving raghav something hot to eat": [
+            "Egg",
+            "Potato",
+            "Bread",
+            "Lettuce"
+        ]
+    },
+    "physical_excercise": {
+        "giving ayush something to workout": [
+            "BasketBall",
+            "Dumbell"
+        ],
+        "get dianbo something to hit a ball": [
+            "BaseBallBat",
+            "TennisRacket"
+        ]
+    },
+    "writing": {
+        "getting ayush something to write a thought on a paper": [
+            "Pen",
+            "Pencil"
+        ],
+        "getting raghav something to e-mail someone": [
+            "Laptop",
+            "CellPhone"
+        ]
+    }
+}
