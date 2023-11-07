@@ -2,22 +2,22 @@
 Supporting Code For Physical CommonSense Affordance
 
 # Task-0:
-- GT Concept-Object Mappings : [Concept-Mappings](https://github.com/com-phy-affordance/embodied-affordance/blob/main/objects.json)
-- GT Task-Concept-Object Mappings: [Oracle-Mappings](https://github.com/com-phy-affordance/embodied-affordance/blob/main/oracle.json)
-- Task List: [Tasks](https://github.com/com-phy-affordance/embodied-affordance/blob/main/tasks.json)
-- Concept List: [Concepts](https://github.com/com-phy-affordance/embodied-affordance/blob/main/concepts.json)
-- Task-0 Dataset: [Variation-{1-4}](https://github.com/com-phy-affordance/embodied-affordance/tree/main/task-0)
+- GT Concept-Object Mappings : [Concept-Mappings](https://github.com/com-phy-affordance/com-affordance/blob/main/objects.json)
+- GT Task-Concept-Object Mappings: [Oracle-Mappings](https://github.com/com-phy-affordance/com-affordance/blob/main/oracle.json)
+- Task List: [Tasks](https://github.com/com-phy-affordance/com-affordance/blob/main/tasks.json)
+- Concept List: [Concepts](https://github.com/com-phy-affordance/com-affordance/blob/main/concepts.json)
+- Task-0 Dataset: [Variation-{1-4}](https://drive.google.com/drive/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo?usp=sharing)
 
 # Task-1:
-- All Possible Common Configurations: [possible configurations](https://github.com/com-phy-affordance/embodied-affordance/blob/main/task-1/possible_configurations_v1.json)
-- Oracle Configurations:[Ideal Configurations](https://github.com/com-phy-affordance/embodied-affordance/blob/main/task-1/pouch_config_oracle.json)
-- Commonsense Common Occurence Variables: [common variables](https://github.com/com-phy-affordance/embodied-affordance/blob/main/task-1/common_var_responses.json)
-- Task-1 Dataset: [Variation-{1-12}](https://github.com/com-phy-affordance/embodied-affordance/tree/main/task-1)
+- All Possible Common Configurations: [possible configurations](https://github.com/com-phy-affordance/com-affordance/blob/main/task-1/possible_configurations_v1.json)
+- Oracle Configurations:[Ideal Configurations](https://github.com/com-phy-affordance/com-affordance/blob/main/task-1/pouch_config_oracle.json)
+- Commonsense Common Occurence Variables: [common variables](https://github.com/com-phy-affordance/com-affordance/blob/main/task-1/common_var_responses.json)
+- Task-1 Dataset: [Variation-{1-12}](https://drive.google.com/drive/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo?usp=sharing)
 
 # Task-2:
-- Suboptimal Configurations: [suboptimal configurations](https://github.com/com-phy-affordance/embodied-affordance/blob/main/task-2/pouch_suboptimal.json)
-- Human Preference Material Order: [material preference](https://github.com/com-phy-affordance/embodied-affordance/blob/main/task-2/material_preference.json)
-- Task-2 Dataset: [Variation-{1-14}](https://github.com/com-phy-affordance/embodied-affordance/tree/main/task-2)
+- Suboptimal Configurations: [suboptimal configurations](https://github.com/com-phy-affordance/com-affordance/blob/main/task-2/pouch_suboptimal.json)
+- Human Preference Material Order: [material preference](https://github.com/com-phy-affordance/com-affordance/blob/main/task-2/material_preference.json)
+- Task-2 Dataset: [Variation-{1-14}](https://drive.google.com/drive/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo?usp=sharing)
 
 ### Prompts Used: [Quantitative Examples](https://giant-licorice-a62.notion.site/Prompts-for-Appendix-Examples-d58e0184d1c546bd8632024de3f7ac25)
 ### Implementations For Language Models:
