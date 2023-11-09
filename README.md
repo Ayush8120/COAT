@@ -40,7 +40,8 @@ Supporting Material For Physical CommonSense Affordance
 - exporting an excel sheet to create object, task, concept jsons
 - generating task-0 datasets for your own task list, object list, concept lists
 - generating task-1, task-2 datasets for your own variables, your preferred possible configurations, handcrafted penalty schema and your own preferences.
-
+----------------------------------------------------------------------------------------------------------------
 > play around, create more variables, go for more comprehensive reward structures, go in any depth you wish. Let's create more agents capable of physical commonsense reasoning!
+----------------------------------------------------------------------------------------------------------------
 
 PS: If you need any help experimenting with this data or curating your own datasets, feel free to open a pull request.
