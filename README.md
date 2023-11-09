@@ -1,4 +1,6 @@
-# Physical Commonsene-Affordance
+<h1 align="center">
+Physical Commonsene-Affordance
+</h1>
 <p align="center">
 <img src="https://github.com/com-phy-affordance/com-affordance/blob/main/tmlr.png" alt="A not so confused robot">
 </p>
