@@ -7,10 +7,10 @@ Physical Commonsene-Affordance
 Supporting Material For Physical CommonSense Affordance
 
 ## Task-0:
-- GT Concept-Object Mappings : [Concept-Mappings](https://github.com/com-phy-affordance/com-affordance/blob/main/objects.json)
-- GT Task-Concept-Object Mappings: [Oracle-Mappings](https://github.com/com-phy-affordance/com-affordance/blob/main/oracle.json)
+- GT Object-Utility Mappings : [Utility-Mappings](https://github.com/com-phy-affordance/com-affordance/blob/main/objects.json)
+- GT Task-Utility-Object Mappings: [Oracle-Mappings](https://github.com/com-phy-affordance/com-affordance/blob/main/oracle.json)
 - Task List: [Tasks](https://github.com/com-phy-affordance/com-affordance/blob/main/tasks.json)
-- Concept List: [Concepts](https://github.com/com-phy-affordance/com-affordance/blob/main/concepts.json)
+- Utility List[^1]: [Utilities](https://github.com/com-phy-affordance/com-affordance/blob/main/concepts.json)
 - Task-0 Dataset: [Variation-{1-4}](https://drive.google.com/drive/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo?usp=sharing)
 
 ## Task-1:
@@ -35,10 +35,11 @@ Supporting Material For Physical CommonSense Affordance
 - ChatGLM-6B: huggingface [Link](https://huggingface.co/THUDM/chatglm-6b)
 - ChatGLM2-6B: huggingface [Link](https://github.com/THUDM/ChatGLM2-6B)
 
+[^1]: For the purpose of datasets, we've used `concept and utility` interchangeably.
 ----------------------------------------------------------------------------------------------------------------
 ## Upcoming Stuff:
-- exporting an excel sheet to create object, task, concept jsons
-- generating task-0 datasets for your own task list, object list, concept lists
+- generating object, task, utility jsons for your purpose 
+- generating task-0 datasets for your own task list, object list, utility lists
 - generating task-1, task-2 datasets for your own variables, your preferred possible configurations, handcrafted penalty schema and your own preferences.
 ----------------------------------------------------------------------------------------------------------------
 > play around, create more variables, go for more comprehensive reward structures, go in any depth you wish. Let's create more agents capable of physical commonsense reasoning!
