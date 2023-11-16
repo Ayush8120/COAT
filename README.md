@@ -1,5 +1,5 @@
 <h1 align="center">
-Physical Commonsene-Affordance
+Substitute Object Commonsene Affordance Task
 </h1>
 <p align="center">
 <img src="https://github.com/com-phy-affordance/com-affordance/blob/main/tmlr.png" alt="A not so confused robot">
