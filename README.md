@@ -1,6 +1,9 @@
 <h1 align="center">
-Substitute Object Commonsene Affordance Task
+Commonsene Object Affordance Task [COAT]
 </h1>
+<h5 align="center">
+  Under Submission at Transactions of Machine Learning Research(TMLR)
+</h5>
 <p align="center">
 <img src="https://github.com/com-phy-affordance/com-affordance/blob/main/tmlr.png" alt="A not so confused robot">
 </p>
