@@ -2,8 +2,11 @@
 Commonsene Object Affordance Task [COAT]
 </h1>
 <h5 align="center">
-  Under Submission at Transactions of Machine Learning Research(TMLR)
+  
+[ArXiv](http://arxiv.org/abs/2311.13577) | [Datasets](https://drive.google.com/drive/u/4/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo)
+
 </h5>
+
 <p align="center">
 <img src="https://github.com/com-phy-affordance/com-affordance/blob/main/tmlr.png" alt="A not so confused robot">
 </p>
@@ -27,7 +30,9 @@ Supporting Material For Physical CommonSense Affordance
 - Human Preference Material Order: [material preference](https://github.com/com-phy-affordance/com-affordance/blob/main/task-2/material_preference.json)
 - Task-2 Dataset: [Variation-{1-14}](https://drive.google.com/drive/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo?usp=sharing)
 
-### Prompts Used: [Quantitative Examples](https://giant-licorice-a62.notion.site/Prompts-for-Appendix-Examples-d58e0184d1c546bd8632024de3f7ac25)
+### Prompts Used: 
+[Quantitative Examples](https://giant-licorice-a62.notion.site/Prompts-for-Appendix-Examples-d58e0184d1c546bd8632024de3f7ac25)
+
 ### Implementations For Language Models:
 - PaLM: Free API
 - GPT3.5-Turbo: Student Azure Subscription
