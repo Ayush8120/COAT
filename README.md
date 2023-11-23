@@ -1,11 +1,11 @@
 <h1 align="center">
 Commonsene Object Affordance Task [COAT]
 </h1>
-<h5 align="center">
   
-[ArXiv](http://arxiv.org/abs/2311.13577) | [Datasets](https://drive.google.com/drive/u/4/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo)
-
-</h5>
+<p align="center">
+  <br>
+  <a href="http://arxiv.org/abs/2311.13577">Arxiv</a> | <a href="https://drive.google.com/drive/u/4/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo">Datasets</a>
+</p>
 
 <p align="center">
 <img src="https://github.com/com-phy-affordance/COAT/blob/main/intro.png" alt="Paper Summary Flowchart">
