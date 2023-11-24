@@ -48,7 +48,7 @@ Here we evaluate models on their ability to prune out the most appropriate```sub
   [Quantitative Examples](https://giant-licorice-a62.notion.site/Prompts-for-Appendix-Examples-d58e0184d1c546bd8632024de3f7ac25)
 </p>
 
-### Implementations For Language Models:
+#### Implementations For Language Models:
 - PaLM/GPT3.5-Turbo: API
 - LLama13B: huggingface text generation pipeline [link](https://huggingface.co/blog/llama2)
 - Vicuna13B: lmsys [link](https://github.com/lm-sys/FastChat)
@@ -59,7 +59,7 @@ Here we evaluate models on their ability to prune out the most appropriate```sub
 
 [^1]: For the purpose of datasets, we've used `concept and utility` interchangeably.
 ----------------------------------------------------------------------------------------------------------------
-## Upcoming Stuff:
+### Upcoming Stuff:
 - generating object, task, utility jsons for your purpose 
 - generating task-0 datasets for your own task list, object list, utility lists
 - generating task-1, task-2 datasets for your own variables, your preferred possible configurations, handcrafted penalty schema and your own preferences.
