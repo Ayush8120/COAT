@@ -67,4 +67,4 @@ Here we evaluate models on their ability to prune out the most appropriate```sub
 > play around, create more variables, go for more comprehensive reward structures, go in any depth you wish. Let's create more agents capable of physical commonsense reasoning!
 ----------------------------------------------------------------------------------------------------------------
 
-PS: If you need any help experimenting with this data or curating your own datasets, feel free to open a pull request.
+PS: If you need any help experimenting with this data or curating your own datasets, feel free to create an Issue.
