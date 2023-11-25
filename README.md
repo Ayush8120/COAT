@@ -32,7 +32,7 @@ Here we evaluate models on their ability to prune out appropriate objects on the
 Here we evaluate models on their ability to prune out the ```ideal``` configuration when presented with a number of ```context object``` configurations. (Something that is pretty obvious to humans)
 - All Possible Common Configurations: [possible configurations](https://github.com/com-phy-affordance/com-affordance/blob/main/task-1/possible_configurations_v1.json)
 - Ideal Configurations: [ideal configurations](https://github.com/com-phy-affordance/com-affordance/blob/main/task-1/pouch_config_oracle.json)
-- Commonsense Common Occurence Variables: [common variables values](https://github.com/com-phy-affordance/com-affordance/blob/main/task-1/common_var_responses.json)
+- Commonsense Common Occurrence Variables: [common variables values](https://github.com/com-phy-affordance/com-affordance/blob/main/task-1/common_var_responses.json)
 - Task-1 Dataset: [12 Variations](https://drive.google.com/drive/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo?usp=sharing)
 
 ### Task-2(Physical State Level):
