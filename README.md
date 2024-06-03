@@ -23,6 +23,11 @@ Commonsene Object Affordance Task [COAT]
 This gives us ```Utility```to``Object`` mappings also called ```utility objects```
 - GT Object-Utility Mappings : [utility-mappings](https://github.com/com-phy-affordance/com-affordance/blob/main/objects.json)
 
+### Task-u(Utility Level):
+Here we evaluate models on their ability to prune out appropriate objects on the basis of Utility. 
+- GT (Utility)-(Object) Mappings: [utility-objects](https://github.com/com-phy-affordance/com-affordance/blob/main/objects.json)
+- Task-u Dataset: [4 Variations](https://drive.google.com/drive/folders/1JJSIicKGp0a7ThsenKl0XWKsTtPL_b5z?usp=sharing)
+  
 ### Task-0(Context Level):
 Here we evaluate models on their ability to prune out appropriate objects on the basis of Context. This gives us ```(Task,Utility)```to``Object`` mappings also called ```context objects```
 - GT (Task-Utility)-(Object) Mappings: [context-objects](https://github.com/com-phy-affordance/com-affordance/blob/main/oracle.json)
@@ -41,6 +46,21 @@ Here we evaluate models on their ability to prune out the most appropriate```sub
 - Human Preference Material Order: [material preference](https://github.com/com-phy-affordance/com-affordance/blob/main/task-2/material_preference.json)
 - Task-2 Dataset: [14 Variations](https://drive.google.com/drive/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo?usp=sharing)
 ---------------------------------------------------------------------------------------------------------------
+
+### Finetuning Datasets 
+
+Please refer to [Appendix F.1]() for dataset details
+
+- Finetuning Dataset for Object Level Selection : [Google Drive Link](https://drive.google.com/drive/folders/1GtrGQxTTtYEczYK1ytB71Y2HGxM1TEu5?usp=drive_link)
+- Finetuning Dataset for Physical State Level Selection : [Google Drive Link](https://drive.google.com/drive/folders/1FiZc8u_G8wUrN4NroZmIgmcTe0jor72T?usp=drive_link)
+
+### Full Pipeline Evaluation Datasets
+
+Please refer to [Appendix F.2]() for dataset deatails
+
+- Ideal Object Choice Datasets : [Google Drive Link](https://drive.google.com/drive/folders/1SMM2TU1BKH32oKtfmW0gS3QfyUA68IZ0?usp=drive_link)
+- Moderate Object Choice Datasets : [Google Drive Link](https://drive.google.com/drive/folders/1SlZQBp4Iao3VHnmOFZMKfzn_LWOctnVE?usp=drive_link)
+
 
 <h3>Prompts Used</h3>
 <p>
