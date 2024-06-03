@@ -1,0 +1,213 @@
+{
+    "heating(source)": [
+        "Microwave",
+        "StoveBurner",
+        "Toaster",
+        "Oven",
+        "CoffeeMachine",
+        "Candle"
+    ],
+    "carrying": [
+        "WineBottle",
+        "WateringCan",
+        "Vase",
+        "Bottle",
+        "Cup",
+        "Mug",
+        "Pot",
+        "Pan",
+        "Kettle",
+        "Bowl",
+        "Plate",
+        "SprayBottle"
+    ],
+    "cleaning": [
+        "DishSponge",
+        "ScrubBrush",
+        "Plunger",
+        "PaperTowelRoll",
+        "SoapBar",
+        "SoapBottle",
+        "Towel",
+        "Newspaper",
+        "ToiletPaper",
+        "Cloth",
+        "HandTowel",
+        "TissueBox",
+        "VaccumCleaner"
+    ],
+    "washing": [
+        "BathTubBasin",
+        "SinkBasin",
+        "Toilet"
+    ],
+    "cutting": [
+        "ButterKnife",
+        "Knife",
+        "Fork",
+        "Spatula",
+        "Spoon"
+    ],
+    "disposing": [
+        "GarbageCan",
+        "BathTubBasin",
+        "SinkBasin",
+        "Toilet"
+    ],
+    "mixing(tool)": [
+        "Ladle",
+        "Fork",
+        "Spoon",
+        "Spatula",
+        "ButterKnife",
+        "Knife"
+    ],
+    "mixing(vessel)": [
+        "Pan",
+        "Bowl",
+        "Kettle",
+        "Cup",
+        "Plate",
+        "Pot",
+        "Mug"
+    ],
+    "heating(vessel)": [
+        "Pan",
+        "Bowl",
+        "Kettle",
+        "Cup",
+        "Plate",
+        "Pot",
+        "Mug"
+    ],
+    "storage": [
+        "Drawer",
+        "Cabinet",
+        "Dresser",
+        "Fridge",
+        "LaundryHamper",
+        "Safe",
+        "Shelf",
+        "ShelvingUnit",
+        "Desk",
+        "Box"
+    ],
+    "entertainment": [
+        "Television",
+        "CD",
+        "CellPhone",
+        "Laptop",
+        "Desktop"
+    ],
+    "comfort": [
+        "Bed",
+        "ArmChair",
+        "Chair",
+        "DogBed",
+        "Sofa",
+        "Ottoman"
+    ],
+    "reading": [
+        "Book",
+        "Newspaper",
+        "Desktop",
+        "Laptop",
+        "CellPhone"
+    ],
+    "increasing_height": [
+        "Desk",
+        "ArmChair",
+        "Chair",
+        "CoffeeTable",
+        "Footstool",
+        "DiningTable",
+        "CounterTop",
+        "Stool",
+        "Ottoman",
+        "Sofa",
+        "SideTable",
+        "Dresser",
+        "Bed"
+    ],
+    "time": [
+        "Watch",
+        "AlarmClock",
+        "CellPhone",
+        "Laptop"
+    ],
+    "eating": [
+        "Apple",
+        "Bread",
+        "Potato",
+        "Lettuce",
+        "Egg",
+        "Coffee",
+        "Tomato",
+        "Lettuce",
+        "Salt"
+    ],
+    "physical_excercise": [
+        "BasketBall",
+        "BaseBallBat",
+        "Dumbell",
+        "TennisRacket"
+    ],
+    "writing": [
+        "Pen",
+        "Pencil",
+        "CellPhone",
+        "Laptop",
+        "Desktop"
+    ],
+    "surface_support": [
+        "CoffeeTable",
+        "CounterTop",
+        "Desk",
+        "DiningTable",
+        "DogBed",
+        "Dresser",
+        "Floor",
+        "Footstool",
+        "Ottoman",
+        "SideTable",
+        "Sofa",
+        "Stool",
+        "Chair",
+        "ArmChair",
+        "Bed"
+    ],
+    "light_source": [
+        "LightSwitch",
+        "Window",
+        "DeskLamp",
+        "Blinds",
+        "Curtains",
+        "Candle",
+        "FloorLamp"
+    ],
+    "decoration": [
+        "Statue",
+        "HousePlant",
+        "RoomDecor",
+        "TeddyBear",
+        "TableTopDecor",
+        "Poster",
+        "Painting",
+        "Curtain",
+        "Candle"
+    ],
+    "breaking": [
+        "ButterKnife",
+        "Knife",
+        "Fork",
+        "Spatula",
+        "Plate",
+        "Ladle",
+        "BasketBall",
+        "TennisRacket",
+        "Dumbell",
+        "RemoteControl",
+        "BaseBallBat",
+        "Spoon"
+    ]
+}
