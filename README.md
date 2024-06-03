@@ -4,7 +4,7 @@ Commonsene Object Affordance Task [COAT]
   
 <p align="center">
   <br>
-  <a href="http://arxiv.org/abs/2311.13577">Arxiv</a> | <a href="https://drive.google.com/drive/u/4/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo">Datasets</a>
+  <a href="https://openreview.net/pdf?id=xYkdmEGhIM">OpenReview</a> | <a href="https://drive.google.com/drive/u/4/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo">Datasets</a>
 </p>
 
 <p align="center">
@@ -49,14 +49,14 @@ Here we evaluate models on their ability to prune out the most appropriate```sub
 
 ### Finetuning Datasets 
 
-Please refer to [Appendix F.1]() for dataset details
+Please refer to [Appendix F.1](https://openreview.net/pdf?id=xYkdmEGhIM) for dataset details
 
 - Finetuning Dataset for Object Level Selection : [Google Drive Link](https://drive.google.com/drive/folders/1GtrGQxTTtYEczYK1ytB71Y2HGxM1TEu5?usp=drive_link)
 - Finetuning Dataset for Physical State Level Selection : [Google Drive Link](https://drive.google.com/drive/folders/1FiZc8u_G8wUrN4NroZmIgmcTe0jor72T?usp=drive_link)
 
 ### Full Pipeline Evaluation Datasets
 
-Please refer to [Appendix F.2]() for dataset deatails
+Please refer to [Appendix F.2](https://openreview.net/pdf?id=xYkdmEGhIM) for dataset deatails
 
 - Ideal Object Choice Datasets : [Google Drive Link](https://drive.google.com/drive/folders/1SMM2TU1BKH32oKtfmW0gS3QfyUA68IZ0?usp=drive_link)
 - Moderate Object Choice Datasets : [Google Drive Link](https://drive.google.com/drive/folders/1SlZQBp4Iao3VHnmOFZMKfzn_LWOctnVE?usp=drive_link)
