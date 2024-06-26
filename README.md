@@ -8,7 +8,7 @@ Commonsene Object Affordance Task [COAT]
 </p>
 
 <p align="center">
-<img src="https://github.com/com-phy-affordance/COAT/blob/main/levels.png" alt="Paper Summary Flowchart">
+<img src="https://github.com/com-phy-affordance/COAT/blob/main/levels-intro.png" alt="Paper Summary Flowchart">
 <em>A 3 level framework adumbrating human commonsense style reasoning for estimating object affordance for various tasks</em>
 </p>
 
