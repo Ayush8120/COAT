@@ -4,7 +4,7 @@ Commonsene Object Affordance Task [COAT]
   
 <p align="center">
   <br>
-  <a href="https://openreview.net/pdf?id=xYkdmEGhIM">OpenReview</a> | <a href="https://drive.google.com/drive/u/4/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo">Datasets</a>
+  <a href="https://openreview.net/pdf?id=xYkdmEGhIM">OpenReview</a> | <a href="https://drive.google.com/drive/u/4/folders/1reH0JHhPM_tFzDMcAaJF0PycFMixfIbo">Datasets</a> | <a href="https://github.com/Ayush8120/COAT-code">Code</a> 
 </p>
 
 <p align="center">
